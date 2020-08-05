@@ -11,7 +11,11 @@ def multi(a, b):
     
 def divi(a, b):
     return a // b
-    
+
+# A 기능구현부분
+def fn_A(a,b):
+    return 0
+
 while ( True ) :
 
     print(' 종료 하려면 : 0 ')
