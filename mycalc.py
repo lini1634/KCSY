@@ -8,6 +8,7 @@ def minus(a, b):
     
 def multi(a, b):
     return a + c
+    return a * k
     
 def divi(a, b):
     return a // b
