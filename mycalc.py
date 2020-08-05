@@ -7,7 +7,7 @@ def minus(a, b):
     return a - b
     
 def multi(a, b):
-    return a * b
+    return a + c
     
 def divi(a, b):
     return a // b
