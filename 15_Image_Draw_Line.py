@@ -1,9 +1,9 @@
 # 간단 계산기 mycalc.py
 
-def plus_ab(a, b):
+def plus(a, b):
     return a + b
     
-def minus_ab(a, b):
+def minus(a, b):
     return a - b
     
 def multi(a, b):
