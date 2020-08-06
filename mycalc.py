@@ -12,7 +12,7 @@ def multi(a, b):
 def divi(a, b):
     return a // b
 
-#슬랙 연동 테스트문장
+#슬랙 연동 테스트문장2
 
 while ( True ) :
 
