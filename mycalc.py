@@ -7,15 +7,10 @@ def minus(a, b):
     return a - b
     
 def multi(a, b):
-    return a + c
-    return a * k
+    return a * b
     
 def divi(a, b):
     return a // b
-
-# A 기능구현부분
-def fn_A(a,b):
-    return 0
 
 while ( True ) :
 
